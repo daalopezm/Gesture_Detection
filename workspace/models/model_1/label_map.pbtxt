@@ -1,0 +1,16 @@
+item { 
+	name:'indicearriba'
+	id:1
+}
+item { 
+	name:'indiceabajo'
+	id:2
+}
+item { 
+	name:'indiceizquierda'
+	id:3
+}
+item { 
+	name:'indicederecha'
+	id:4
+}

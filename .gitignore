@@ -1,0 +1,7 @@
+venv/
+requirements/
+venv1/
+venv2/
+workspace/images/
+workspace/pre-trained-models/
+/2. Training and Detection.ipynb
